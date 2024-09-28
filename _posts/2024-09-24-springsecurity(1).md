@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "[SPRING SECURITY] SecurityBuilder, SecurityConfigurer"
+published : false
 ---
 
 ## 개념 및 구조 이해
