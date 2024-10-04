@@ -42,3 +42,17 @@ title:  "[이산수학] 02 관계와 함수"
 ![image17]({{site.url}}/images/2024-09-28-discrete_mathematics_2/image17.jpg)
 
 ![image18]({{site.url}}/images/2024-09-28-discrete_mathematics_2/image18.jpg)
+
+![PNG-903FB85284C2-1]({{site.url}}/images/2024-09-28-discrete_mathematics_2/PNG-903FB85284C2-1.png)
+
+![PNG-903FB85284C2-2]({{site.url}}/images/2024-09-28-discrete_mathematics_2/PNG-903FB85284C2-2.png)
+
+![PNG-903FB85284C2-3]({{site.url}}/images/2024-09-28-discrete_mathematics_2/PNG-903FB85284C2-3.png)
+
+![PNG-903FB85284C2-4]({{site.url}}/images/2024-09-28-discrete_mathematics_2/PNG-903FB85284C2-4.png)
+
+![PNG-903FB85284C2-5]({{site.url}}/images/2024-09-28-discrete_mathematics_2/PNG-903FB85284C2-5.png)
+
+![PNG-903FB85284C2-6]({{site.url}}/images/2024-09-28-discrete_mathematics_2/PNG-903FB85284C2-6.png)
+
+![PNG-903FB85284C2-7]({{site.url}}/images/2024-09-28-discrete_mathematics_2/PNG-903FB85284C2-7.png)
