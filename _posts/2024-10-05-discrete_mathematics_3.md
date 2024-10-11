@@ -31,3 +31,17 @@ published : true
 ![PNG-3EE5F5DF29B0-12]({{site.url}}/images/2024-10-05-discrete_mathematics_3/PNG-3EE5F5DF29B0-12.png)
 
 ![PNG-3EE5F5DF29B0-13]({{site.url}}/images/2024-10-05-discrete_mathematics_3/PNG-3EE5F5DF29B0-13.png)
+
+![image13]({{site.url}}/images/2024-10-05-discrete_mathematics_3/image13.png)
+
+![image14]({{site.url}}/images/2024-10-05-discrete_mathematics_3/image14.png)
+
+![image15]({{site.url}}/images/2024-10-05-discrete_mathematics_3/image15.png)
+
+![image16]({{site.url}}/images/2024-10-05-discrete_mathematics_3/image16.png)
+
+![image17]({{site.url}}/images/2024-10-05-discrete_mathematics_3/image17.png)
+
+![image18]({{site.url}}/images/2024-10-05-discrete_mathematics_3/image18.png)
+
+![image19]({{site.url}}/images/2024-10-05-discrete_mathematics_3/image19.png)
