@@ -4,6 +4,7 @@ title:  "[또또가 프로젝트] 검색 기능 리팩터링 "
 published : false
 categories: ttottoga_project
 toc: true
+author_profile: false
 ---
 
 ## 검색 기능

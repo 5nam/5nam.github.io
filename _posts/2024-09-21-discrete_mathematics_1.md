@@ -3,6 +3,7 @@ layout: single
 title:  "[이산수학] 01 집합론(논리, 명제, 집합, 증명)"
 categories: discrete_mathematics
 toc: true
+author_profile: false
 ---
 
 

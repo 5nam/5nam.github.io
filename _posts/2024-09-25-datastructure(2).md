@@ -3,6 +3,7 @@ layout: single
 title:  "[DATA STRUCTURE] 리스트"
 categories: data_structure
 toc: true
+author_profile: false
 ---
 
 ## 리스트

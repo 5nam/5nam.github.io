@@ -3,6 +3,7 @@ layout: single
 title:  "[DATA STRUCTURE] 자료구조 및 알고리즘 개요"
 categories: data_structure
 toc: true
+author_profile: false
 ---
 
 ## 자료구조

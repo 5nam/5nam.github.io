@@ -4,6 +4,7 @@ title:  "[SPRING SECURITY] SecurityBuilder, SecurityConfigurer"
 published : false
 categories: spring_security
 toc: true
+author_profile: false
 ---
 
 ## 개념 및 구조 이해

@@ -4,6 +4,7 @@ title:  "[이산수학] 04 알고리즘"
 published : true
 categories: discrete_mathematics
 toc: true
+author_profile: false
 ---
 
 # 학습 내용

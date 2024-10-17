@@ -4,6 +4,7 @@ title:  "[니어니어 프로젝트] 배포 자동화 및 무중단 배포"
 published : false
 categories: niornear_project
 toc: true
+author_profile: false
 ---
 
 # 배포 전략
