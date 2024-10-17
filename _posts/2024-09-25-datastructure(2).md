@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "[DATA STRUCTURE] 리스트"
+categories: data_structure
 ---
 
 ## 리스트
