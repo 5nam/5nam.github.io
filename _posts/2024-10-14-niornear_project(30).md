@@ -189,6 +189,18 @@ jobs:
 5. scp 로 ec2 에 빌드 완료 된 jar 파일 전송
 6. 스크립트를 이용하여 서버에 배포
 
+## EC2 JDK 설치
+
+1. JDK 설치
+
+   ```shell
+   sudo apt update && /
+   sudo apt install openjdk-17-jdk -y
+   java -version
+   ```
+
+2. swap 생성
+
 ## nginx 설정
 
 1. nginx 설치(linux 기준)
@@ -222,7 +234,8 @@ jobs:
    server {
            listen 80;
            listen [::]:80;
-           server_name localhost;
+           // 외부에서 접근할 때는 localhost 로 되어 있으면 접근 안되므로 실제 EC2 서버 주소로 설정
+           server_name {EC2 서버 퍼블릭 주소};
            root /usr/share/nginx/html;
    
            # Load configuration files for the default server block
@@ -237,22 +250,36 @@ jobs:
            }
    }
    ```
-
+   
    - `include /etc/nginx/conf.d/service-url.inc;` 로 proxy_pass 변수 설정
-
+   
    ```shell
    sudo vim /etc/nginx/conf.d/service-url.inc
    ```
-
+   
    ```shell
    set $service_url http://127.0.0.1:8082;
    ```
-
+   
    - `switch.sh` 의 `echo "set \$service_url http://127.0.0.1:${IDLE_PORT};" | sudo tee /etc/nginx/conf.d/service-url.inc` 코드로 해당 파일의 내용 중 새로 배포한 포트 번호를 반영해서 변경해줌
-
+   
    
 
+## resources 관리
+
+- EC2 내부에 properties 경로 만들기
+
+```shell
+cd 프로젝트명
+mkdir resources
+cd resources
+sudo vim application-port1.properties
+sudo vim application-port2.properties
+```
+
 ## 무중단 배포 스크립트
+
+> scripts 폴더에 관리
 
 profile.sh
 
