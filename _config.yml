@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "하면 된다."
 title_separator          : "|"
-subtitle                 :  # site tagline that appears below site title in masthead
+subtitle                 : "Just Do It!"# site tagline that appears below site title in masthead
 name                     : "오남의"
 description              : "백엔드 개발자 오남의 입니다."
 url                      : "https://5nam.github.io"
