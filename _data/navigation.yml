@@ -11,16 +11,16 @@ docs:
   - title : "백엔드"
     children:
       - title: "SpringMVC"
-        url : /categories/#spring_mvc
+        url : "/categories/#spring_mvc"
       - title: "Algorithm"
-        url: /categories/#algorithm
+        url: "/categories/#algorithm"
 
   - title : "CS"
     children:
       - title: "이산수학"
-        url : /categories/#discrete_mathematics
+        url : "/categories/#discrete_mathematics"
       - title: "자료구조"
-        url: /categories/#data_structure
+        url: "/categories/#data_structure"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
