@@ -3,6 +3,7 @@ layout: single
 title:  "[이산수학] 03 행렬과 선형 방정식"
 published : true
 categories: discrete_mathematics
+toc: true
 ---
 
 

@@ -2,6 +2,7 @@
 layout: single
 title:  "[이산수학] 02 관계와 함수"
 categories: discrete_mathematics
+toc: true
 ---
 
 

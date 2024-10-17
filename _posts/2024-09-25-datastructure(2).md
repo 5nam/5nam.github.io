@@ -2,6 +2,7 @@
 layout: single
 title:  "[DATA STRUCTURE] 리스트"
 categories: data_structure
+toc: true
 ---
 
 ## 리스트
