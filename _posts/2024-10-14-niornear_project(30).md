@@ -5,6 +5,8 @@ published : false
 categories: niornear_project
 toc: true
 author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 # 배포 전략

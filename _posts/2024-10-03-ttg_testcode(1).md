@@ -5,6 +5,8 @@ published : false
 categories: ttottoga_project
 toc: true
 author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 ## 리포지토리 테스트 코드 작성

@@ -5,6 +5,8 @@ published : false
 categories: spring_security
 toc: true
 author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 ## 개념 및 구조 이해

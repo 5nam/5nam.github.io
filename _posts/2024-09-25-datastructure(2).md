@@ -4,6 +4,8 @@ title:  "[DATA STRUCTURE] 리스트"
 categories: data_structure
 toc: true
 author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 ## 리스트

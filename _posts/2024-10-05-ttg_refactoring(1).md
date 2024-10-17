@@ -5,6 +5,8 @@ published : false
 categories: ttottoga_project
 toc: true
 author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 ## 검색 기능
