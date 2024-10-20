@@ -203,7 +203,7 @@ for i=1 to n-1
 
 ![image-20241020231011018]({{site.url}}/images/2024-10-11-discrete_mathematics_4/image-20241020231011018.png)
 
-![스크린샷 2024-10-20 오후 11.10.38]({{site.url}}/images/2024-10-11-discrete_mathematics_4/스크린샷 2024-10-20 오후 11.10.38.png)
+![img]({{site.url}}/images/2024-10-11-discrete_mathematics_4/img.png)
 
 즉, 시간복잡도는 ![image-20241020231114722]({{site.url}}/images/2024-10-11-discrete_mathematics_4/image-20241020231114722.png)
 
