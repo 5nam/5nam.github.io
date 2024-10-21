@@ -60,3 +60,9 @@ sudo certbot --nginx -d example.com -d www.example.com
 2. certbot 이메일 주소 입력하고 Let's Encrypt 서비스 약관에 동의하는 것을 포함하여 HTTPS 설정 구성하라는 메시지에 응답
 3. 인증서 생성 완료되면 NGINX 가 새 설정 다시 로드
 4. https 로 접속 잘 되는지 확인하기!
+
+
+
+---
+
+출처 : https://nginxstore.com/blog/nginx/lets-encrypt-%EC%9D%B8%EC%A6%9D%EC%84%9C%EB%A1%9C-nginx-ssl-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/
