@@ -10,4 +10,10 @@ sidebar:
 
 ---
 
-## 
+## 운영 서버에 배포하는 과정
+
+**point!** RDS 를 private VPC 에 생성
+
+[운영 서버에 배포하는 과정]
+
+1. develop 브랜치 > main 브랜
