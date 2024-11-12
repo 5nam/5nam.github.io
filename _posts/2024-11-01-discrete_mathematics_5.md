@@ -9,24 +9,44 @@ sidebar:
     nav: "docs"
 ---
 
-![Page1]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page1.png)
+![Page01]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page01.png)
 
-![Page2]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page2.png)
+![Page02]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page02.png)
 
-![Page3]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page3.png)
+![Page03]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page03.png)
 
-![Page4]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page4.png)
+![Page04]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page04.png)
 
-![Page5]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page5.png)
+![Page05]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page05.png)
 
-![Page1]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page1-1248763.png)
+![Page06]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page06.png)
 
-![Page2]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page2-1248797.png)
+![Page07]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page07.png)
 
-![Page3]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page3-1248802.png)
+![Page08]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page08.png)
 
-![Page4]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page4-1248806.png)
+![Page09]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page09.png)
 
-![Page5]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page5-1248810.png)
+![Page10]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page10.png)
 
-![Page6]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page6.png)
+![Page11]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page11.png)
+
+![Page12]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page12.png)
+
+![Page13]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page13.png)
+
+![Page14]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page14.png)
+
+![Page15]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page15.png)
+
+![Page16]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page16.png)
+
+![Page17]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page17.png)
+
+![Page18]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page18.png)
+
+![Page19]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page19.png)
+
+![Page20]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page20.png)
+
+![Page21]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page21.png)
