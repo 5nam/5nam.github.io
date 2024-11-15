@@ -50,3 +50,11 @@ sidebar:
 ![Page20]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page20.png)
 
 ![Page21]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page21.png)
+
+![Page22]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page22.png)
+
+![Page23]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page23.png)
+
+![Page24]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page24.png)
+
+![Page25]({{site.url}}/images/2024-11-01-discrete_mathematics_5/Page25.png)
