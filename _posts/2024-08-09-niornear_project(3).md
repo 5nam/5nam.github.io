@@ -55,7 +55,7 @@ sidebar:
 - 버킷(Bucket)은 이러한 객체를 저장하고 관리하는 역할
 - 버킷은 그냥 디렉토리/폴더 개념으로 키는 파일명으로 이해
 
-만약 User 라는 이름의 버킷에 profile.png 객체 파일을 저장하면 [http://User.s3.amazonaws.com/profile.png](http://User.s3.amazonaws.com/profile.png) 라는 URL 이 생성됨
+만약 User 라는 이름의 버킷에 profile.png 객체 파일을 저장하면 [https://User.s3.amazonaws.com/profile.png](https://User.s3.amazonaws.com/profile.png) 라는 URL 이 생성됨
 
 **S3 구성**
 
