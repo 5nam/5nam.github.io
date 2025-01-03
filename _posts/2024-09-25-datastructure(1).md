@@ -159,7 +159,7 @@ printf("x: %d, y: %d", ptr->x, ptr->y);
 
 - 코드 컴파일 - 실행파일 생성 - 실행파일 실행 - 운영체제 실행파일 바탕으로 프로세스 생성 - 프로세스에 스택, 힙, 데이터, 텍스트 영역으로 이루어진 메모리 할당
 
-  ![image-20240925130654227](../images/2024-09-25-datastructure(1)/image-20240925130654227.png)
+  ![image-20240925130654227]({{site.url}}/assets/images/2024-09-25-datastructure(1)/image-20240925130654227.png)
 
   - 텍스트와 데이터 영역은 실행파일에서 읽어 들인 정보를 기록하는 공간
 
@@ -214,7 +214,7 @@ Point *ptr = (Point*)malloc(sizeof(Point));
 
 - 이 코드 실행하면 malloc() 이 Point 크기만큼 메모리 힙에 할당하고, 스택에 위치한 ptr 이 그 메모리 주소를 가리키게 됨
 
-  ![image-20240925132434313](../images/2024-09-25-datastructure(1)/image-20240925132434313.png)
+  ![image-20240925132434313]({{site.url}}/assets/images/2024-09-25-datastructure(1)/image-20240925132434313.png)
 
 - ptr 은 자신이 태어난 코드 블록이 끝나는 곳에서 스택으로부터 제거되지만, malloc() 이 할당한 공간은 힙의 한 공간을 차지한 채 남아있음
 
