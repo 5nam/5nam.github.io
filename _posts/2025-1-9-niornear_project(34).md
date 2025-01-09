@@ -124,6 +124,6 @@ public void sendMessage(Order order) {
 
 출처
 
-[출처 1](https://velog.io/@think2wice/Spring-Async-Thread-Pool%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-Async)
+[[Spring] @Async로 비동기 처리하기](https://velog.io/@think2wice/Spring-Async-Thread-Pool%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-Async)
 
-[출처 2](https://f-lab.kr/insight/understanding-spring-async-annotation-and-thread-pool)
+[스프링의 @Async 어노테이션과 스레드 풀 이해하기](https://f-lab.kr/insight/understanding-spring-async-annotation-and-thread-pool)
