@@ -123,6 +123,6 @@ public void sendMessage(Order order) {
 
 출처
 
-https://velog.io/@think2wice/Spring-Async-Thread-Pool%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-Async
+[출처 1](https://velog.io/@think2wice/Spring-Async-Thread-Pool%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-Async)
 
-https://f-lab.kr/insight/understanding-spring-async-annotation-and-thread-pool
+[출처 2](https://f-lab.kr/insight/understanding-spring-async-annotation-and-thread-pool)
